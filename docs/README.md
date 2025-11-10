@@ -81,6 +81,10 @@ python -m unittest utest_circle.py
 ### Хеши
 4309a7b Добавлены функции для квадрата и круга
 138c32b Добавлено описание проекта Файл README.md в папке docs
+3858e65 Добавлены Модули для тестирования
+
+## .gitignore
+В .gitignore добавлена папка __pycache__
 
 ## Автор
 Student ITMO Obmoin Andrey M3120
