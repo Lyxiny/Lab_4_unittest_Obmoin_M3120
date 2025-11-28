@@ -20,4 +20,7 @@ jobs:
 
       - name: Run tests
         run: |
-          python -m unittest discover -v
+          python -m unittest utest_*.py -v
+
+      - name: List files
+        run: ls -la *.py utest_*.py
